@@ -43,7 +43,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-The app need to install the following software
+You need to install the following software
 
  * Java JDK 1.8+
 
@@ -56,7 +56,7 @@ Steps to Setup the app
 1. **Clone the application**
 
 	```bash
-	git clone https://github.com/sayedbaladoh/rest-spring-boot-maven-cars-app.git
+	git clone https://github.com/SayedBaladoh/spring-boot-security-data-jpa-h2-rest-swagger-cars-app.git
 	cd polling-app-server
 	```
 
@@ -66,7 +66,7 @@ Steps to Setup the app
 
 3. **Initialize tables data**
 
-	The database tables will populated with some data by default. If you want to change the default data
+	The database tables will be populated with some data by default. If you want to change the default data
 
 	+ open `src/main/resources/data.sql` file
 
