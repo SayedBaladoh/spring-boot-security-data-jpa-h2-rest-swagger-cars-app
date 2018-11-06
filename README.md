@@ -57,7 +57,6 @@ Steps to Setup the app
 
 	```bash
 	git clone https://github.com/SayedBaladoh/spring-boot-security-data-jpa-h2-rest-swagger-cars-app.git
-	cd polling-app-server
 	```
 
 2. **Create database schema**
